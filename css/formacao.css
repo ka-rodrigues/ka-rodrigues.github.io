@@ -87,7 +87,7 @@
   color: #a3a3a3;
 }
 
-.cursos {
+.habilidades {
   margin-bottom: 60px;
 }
 
@@ -110,7 +110,7 @@
   top: -4px;
 }
 
-.cursos h3::before {
+.habilidades h3::before {
   background: url("../img/cursos.svg") no-repeat center center;
 }
 
@@ -128,7 +128,7 @@
   color: #8f8f8f;
 }
 
-.cursos li {
+.habilidades li {
   display: flex;
   justify-content: space-between;
 }
